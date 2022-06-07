@@ -172,6 +172,10 @@ a {
 .side .bottom:hover a:hover {
   color: rgba(0, 0, 0, 0.8);
 }
+.img1 {
+  width: 100%;
+  height: auto;
+}
 
 /**
  * The first navigation
